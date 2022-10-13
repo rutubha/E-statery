@@ -1,0 +1,56 @@
+.header { 
+    padding: 1rem;
+    border-bottom: 1px solid rgba(155, 152, 152, 0.281);
+}
+
+.navbar {
+    width: 92%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-left {
+    display: flex;
+}
+
+.logo {
+    font-size: x-large;
+    padding: 0.5rem;
+}
+
+.nav-link ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-link ul li {
+    margin: 0 2rem; 
+}
+
+.nav-link ul li:hover {
+    border-radius: 1px;
+    background-color: #7061f638;
+}
+
+.profile {
+    margin: auto 0;
+}
+
+.btn {
+    text-decoration: none;
+    border: 1px solid rgba(173, 169, 169, 0.425);
+    border-radius: 6px;
+    font-size: 14px;
+    padding: 7px 12px;
+}
+
+.outline {
+    color: #6f61f6;
+    font-weight: bold;
+}
+
+.fill {
+    color: white;
+    background-color: #6f61f6;
+    font-weight: bold;
+}

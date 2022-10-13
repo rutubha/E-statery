@@ -1,0 +1,19 @@
+.search {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter-search {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vilot-color {
+    background-color: #6f61f6;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    background-color:  #faf9fe;
+}
